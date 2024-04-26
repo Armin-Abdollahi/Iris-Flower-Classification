@@ -2,6 +2,31 @@
 
 The iris dataset contains three classes of flowers, Versicolor, Setosa, Virginica, and each class contains 4 features, ‘Sepal length’, ‘Sepal width’, ‘Petal length’, ‘Petal width’. The aim of the iris flower classification is to predict flowers based on their specific features.
 
+Implemented Algorithms:
+- Logistic Regression
+- XGBoost
+- Support Vector Machine (SVM)
+- Softmax Regression
+- Random Forest
+- Pycaret
+
+## Logistic Regression
+
+
+## XGBoost
+
+
+## Softmax Regression
+
+
+## Random Forest
+
+
+## Pycaret
+
+
+## Support Vector Machine (SVM)
+
 Support Vector Machine (SVM): A support vector machine (also known as a support vector network) is a supervised machine learning algorithm that analyzes data for classification and regression. SVMs are one of the most robust classifications methods. SVM approximates a separate line (Hyperplane) between two classes. SVM algorithm finds the points closest to the line from both classes. These points are known as support vectors. Then it computes the distance between the line and support vectors. This distance is called the margin. The main goal is to maximize the margin. The hyperplane which has the maximum margin is known as the optimal hyperplane. SVM mainly supports binary classification natively. For multiclass classification, It separates the data for binary classification and utilizes the same principle by breaking down multi-classification problems into multiple binary classification problems.
 
 Prerequisites:
